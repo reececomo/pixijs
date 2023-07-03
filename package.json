@@ -44,7 +44,6 @@
   ],
   "engines": {
     "node": ">=18",
-    "yarn": "please-use-npm",
     "npm": ">=8"
   },
   "devDependencies": {
